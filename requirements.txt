@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+pandas
+matplotlib
+numpy
+scipy
+lap
+filterpy
+gdown
+torchreid
+tensorboard
+boxmot
